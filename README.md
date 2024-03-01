@@ -3,6 +3,15 @@
 ![Metrics recently used](/metrics.plugin.languages.recent.svg)
 
 <!--
+
+## action configuration
+
+https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
+
+## plugin configuration
+
+https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgxxv&layout=compact)
 
 **cgxxv/cgxxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
