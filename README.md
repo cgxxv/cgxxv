@@ -1,4 +1,6 @@
-![Metrics](/metrics.plugin.languages.recent.svg)
+![Metrics indepth ayalisis](/metrics.plugin.languages.indepth.svg)
+
+![Metrics recently used](/metrics.plugin.languages.recent.svg)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgxxv&layout=compact)
