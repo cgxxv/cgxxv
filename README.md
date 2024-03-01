@@ -1,13 +1,14 @@
-![Metrics indepth ayalisis](/metrics.plugin.languages.svg)
+![indepth ayalisis](/metrics.plugin.languages.indepth.svg)
 
-![Metrics indepth ayalisis](/metrics.plugin.languages.details.svg)
+![recently used](/metrics.plugin.languages.recent.svg)
 
-![Metrics recently used](/metrics.plugin.languages.recent.svg)
-
-![Metrics indepth ayalisis](/metrics.plugin.languages.indepth.svg)
+![most used details](/metrics.plugin.languages.details.svg)
 
 <!--
+![most used](/metrics.plugin.languages.svg)
+-->
 
+<!--
 ## action configuration
 
 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
