@@ -1,6 +1,10 @@
-![Metrics indepth ayalisis](/metrics.plugin.languages.indepth.svg)
+![Metrics indepth ayalisis](/metrics.plugin.languages.svg)
+
+![Metrics indepth ayalisis](/metrics.plugin.languages.details.svg)
 
 ![Metrics recently used](/metrics.plugin.languages.recent.svg)
+
+![Metrics indepth ayalisis](/metrics.plugin.languages.indepth.svg)
 
 <!--
 
