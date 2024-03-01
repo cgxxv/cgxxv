@@ -1,9 +1,8 @@
-![Metrics](/github-metrics.svg)
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgxxv&layout=compact)
--->
+![Metrics](/metrics.plugin.languages.recent.svg)
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgxxv&layout=compact)
+
 **cgxxv/cgxxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
